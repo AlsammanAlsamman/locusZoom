@@ -1,0 +1,42 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.Rapp.history
+.httr-oauth
+
+# RStudio files
+.Rproj.user/
+
+# Output files
+*.pdf
+*.png
+*.html
+
+# Output directory
+locus_plots/
+
+# Reference panel files (large binary files)
+ref_panel/*.rds
+ref_panel/*.bk
+ref_panel/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Data files (optional - uncomment if you don't want to track large data files)
+*.txt
+*.tsv
+*.csv
